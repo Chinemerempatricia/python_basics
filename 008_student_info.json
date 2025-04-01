@@ -1,0 +1,35 @@
+{
+	"students": [
+    {
+	    "name": "Obi Kate",
+	    "age": 18,
+	    "class": "10A",
+	    "subjects": ["Mathematics", "English", "Health Education", "Science"],
+	    "contact": {
+	      "phone": "090-3434-3997",
+	      "email": "obikate@gmail.com"
+	    }
+    },
+    {
+	    "name": "Igwe Ugonna",
+	    "age": 20,
+	    "class" "16B",
+	    "subjects": ["Government", "CRS", "Physics", "Biology"],
+	    "contacts": {
+		"phone": "080-3240-5453",
+	        "email": "igweugonna@gmail.com"
+	    }
+
+      },
+     {
+            "name": "Eke Ifeoma",
+            "age": 21,
+            "class": "15C",
+            "subjects": ["Geography", "Chemistry", "Civic Education", "Health Science"],
+	    "contacts": {
+	        "phone": "070-3129-887",
+	        "email": "ekeifeoma@gmail.com"
+	    }
+          }
+	]
+        }
