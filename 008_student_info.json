@@ -1,0 +1,39 @@
+         {
+		 { "students":[
+ 
+	  "name":"Igwe Precious", 
+  	  "age":17,
+	  "class": "10A",
+	  "subjects":["MATHEMATICS", "English", "Health Education"],
+	  "contacts":{
+	  "phone":"080-3434-5676",
+	  "email":"igweprecious@gmail.com"}
+          }
+           ],
+  
+          {
+	 	[ "name":"Eke kate",
+           "age":19,
+	   "class":"8B",
+	   "subjects":["Biology", "Chemistry", "Physics"],
+	   "contacts":{
+	   "phone":"090-3669-9364",
+           "email":"ekekate45@gmail.com"}
+	}
+	]
+        {
+	      [ "name":" Ike Obinna",
+	      "age":20,
+	      "class":"7C",
+	      "subjects":["Home Economics", "Government", "CRS"],
+	     "Contacts":{
+		    "phone":"070-3129-6565",
+		   "email":"ikeobinna@gmail.com"}
+	      }
+
+	      ]
+      
+	      }
+
+
+
