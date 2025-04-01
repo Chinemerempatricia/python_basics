@@ -1,0 +1,21 @@
+{
+	"id": 1,
+	"brand": "Toyota",
+	"model": "Corolla",
+	"year": 2022,
+	"color": "Black",
+	"price": 20000,
+	"features": [
+		"Air Conditioning",
+		"Bluetooth",
+		"Backup Camera",
+		"Sunroof"
+	],
+	"engine": {
+		"type": "Petrol",
+		"horsepower": 150,
+		"capacity": "1.8L"
+	}
+}
+
+
