@@ -1,15 +1,16 @@
-from 027_math_operations import add, subtract, muultiply, divide
+from math_027_operations import add, subtract, multiply, divide
 
-print(f"Addition of 10 and  5:
-{add(10, 5)}")
-print(f"Subtraction of 10 and 5:
-{subtract(10, 5)}")
 
-print(f"Multiplication of 10 and 5:
-{multiply(10, 5)}")
-print(f"Division of 10 and 5:
-{divide(10, 5)}")
-print(f"Division of 10 by 0:
-{divide(10, 0)}")
+a = 10
+b = 5
+
+print("Addition:", add(a, b))
+
+print("Subtraction:", subtract(a, b))
+
+print("Multiplication:", multiply(a, b))
+
+print("Division:", divide(a, b))
+
 
 
