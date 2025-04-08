@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "Title":"Things Fall Apart",
+        "Author":"Chinua Achebe",
+        "Year of Publications":1958,
+        "Price":22.19
+    },
+    {
+        "id":2,
+        "Title":"The Palm-wine Drunkard",
+        "Author":"Amos Tutola",
+        "Year of Publications":1952,
+        "Price":15.12
+    },
+    {
+        "id":3,
+        "Title":"Americana",
+        "Author":"Chimamanda Ngozi Adichie",
+        "Year of Publications":2013,
+        "Price":18.12
+    },
+    {
+        "id":4,
+        "Title":"The Famished Road",
+        "Author":"Ben Okri",
+        "Year of Publications":1991,
+        "Price":11.4
+    },
+    {
+        "id":5,
+        "Title":"The Joys of Motherhood",
+        "Author":"Buchi Emecheta",
+        "Year of Publications":1979,
+        "Price":19.22
+    },
+    {
+        "id":6,
+        "Title":"The Man Died",
+        "Author":"Wole Soyinka",
+        "Year of Publications":1972,
+        "Price":15.32
+    },
+    {
+        "id":7,
+        "Title":"Efuru",
+        "Author":"Flora Nwapa",
+        "Year of Publications":1966,
+        "Price":12.5
+    },
+    {
+        "id":8,
+        "Title":"Who Fears Death",
+        "Author":"Nnedi Okoroafor",
+        "Year of Publications":2010,
+        "Price":17.88
+    },
+    {
+        "id":9,
+        "Title":"Everything Good will Come",
+        "Author":"Sefi Atta",
+        "Year of Publications":2005,
+        "Price":12.7
+    },
+    {
+        "id":10,
+        "Title":"Freshwater",
+        "Author":"Akwaeke Emezi",
+        "Year of Publications":2017,
+        "Price":14.23
+    }
+]
