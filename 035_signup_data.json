@@ -12,5 +12,33 @@
         "last_name": "oduh",
         "email": "chinemerempatricia@gmail.com",
         "password": "54tricia"
+    },
+    {
+        "id": "1",
+        "first_name": "Ibe Nnenna",
+        "last_name": "Ebo",
+        "email": "neny2@gmail.com",
+        "password": "gent1"
+    },
+    {
+        "id": "2",
+        "first_name": "Gerald",
+        "last_name": "Obi",
+        "email": "gera342@gmail.com",
+        "password": "ten56"
+    },
+    {
+        "id": "3",
+        "first_name": "Ekene",
+        "last_name": "Eke",
+        "email": "ekene@gmail.com",
+        "password": "0bi4"
+    },
+    {
+        "id": "4",
+        "first_name": "Kate",
+        "last_name": "Emenike",
+        "email": "ketty@gmail.com",
+        "password": "yutr4"
     }
 ]
